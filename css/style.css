@@ -9,7 +9,7 @@
 }
 
 .atags{
-    color: #fff;
+    color:black
 
 }
 .fixed-bg {
@@ -63,11 +63,8 @@ header{
     background-color: white;
 }
 .container{
-    display: flex;
-    width: 1280px;
-    max-width: 100%;
-    font-size: 15px;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 /* demo11111 */
 .carusel{
@@ -227,3 +224,14 @@ header{
     background: #ff6600;
     color: white;
   }
+  .page4-body{
+    background-color: beige;
+  }
+  /*  */
+  /*  */
+  /*  */
+  /*  */
+  /*  */
+  /* page4 */
+
+  
