@@ -12,6 +12,9 @@
     color:black
 
 }
+.heights{
+  height: 80px;
+}
 .fixed-bg {
     height: 100%;
     margin: 0;
