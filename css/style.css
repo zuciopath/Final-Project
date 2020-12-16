@@ -65,10 +65,7 @@
 header{
     background-color: white;
 }
-.container{
-  display: flex;
-  justify-content: center;
-}
+
 /* demo11111 */
 .carusel{
     width: 1200px;
@@ -234,7 +231,39 @@ header{
   /*  */
   /*  */
   /*  */
-  /*  */
-  /* page4 */
+ /*  */
+ /*  */
+ .card-background{
+  background: #FFCA1B;
+ }
+ 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
