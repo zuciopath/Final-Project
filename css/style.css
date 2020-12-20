@@ -115,6 +115,8 @@ header{
     text-align: center;
     text-decoration: none;
     margin: 11px 20px;
+    background: #55ACEE;
+    border-radius: 50%;
   }
   
   .fa:hover {
