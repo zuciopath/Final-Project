@@ -328,6 +328,17 @@ label {
     border-radius: 2px
 }
 
+/*  */
+.navbar-burger {
+  display: none;
+  margin-top: 40px;
+}
+
+@media (max-width: 480px) {
+  .navbar {
+      display: block;
+  }
+}
 
 
 
