@@ -244,15 +244,22 @@ header{
     width: 100%;
     height: 266px;
 } */
-.media-iframe{
+/* .card-iframe1{
   width: 100%;
-  height: 266px;
+  height: 100%px;
+  display: none;
 }
 @media(max-width:780px){
-  .media-iframe1{
-   display: block;
+  .card-iframe1{
+    display: block;
   }
-}
+} */
+/* .responsive{
+  width: 100%;
+  height: 0;
+  padding-bottom: 56,25%;
+  position: relative;
+} */
 
 
 
